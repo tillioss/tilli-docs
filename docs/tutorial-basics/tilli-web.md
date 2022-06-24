@@ -8,7 +8,7 @@ sidebar_position: 1
 
 
 ```bash
-https://github.com/zimode-solutions/tilli-integrated-web-app.git
+https://github.com/teqbahn/tilli-integrated-web-app.git
 ```
 $ cd tilli-integrated-web-app
 

@@ -2,7 +2,7 @@
 id: getting-started-developer
 ---
 
-# Getting Started Developer
+# Getting Started 
 
 Tilli is a web-based application with scala as backend and uses truffle as a tool to compile.
 It uses MongoDB as a database for regular non-blockchain data persistence and solidity smart contract to execute transactions on Ethereum blockchain.
@@ -50,7 +50,22 @@ Replace your host and port number(host:port) 127.0.0.1:6379
 ## Installing Tilli Web
 
 1. Clone this repository https://github.com/tillioss/tilli-web-app
-2. Update .env file to add URL of your Tilli server
+2. Update .env file to add URL of your Tilli Web
+   `REACT_APP_API_SERVER=http://localhost:3800`
+
+3. Install required dependencies and compile smart contracts
+   ``npm install`
+
+4. Start the server
+   `npm start`
+5. Now, in your browser go to http://localhost:3000 and follow the setup instructions on screen.
+
+
+
+## Installing Tilli IDE
+
+1. Clone this repository https://github.com/tillioss/tilli-ide.git
+2. Update .env file to add URL of your Tilli IDE
    `REACT_APP_API_SERVER=http://localhost:3800`
 
 3. Install required dependencies and compile smart contracts

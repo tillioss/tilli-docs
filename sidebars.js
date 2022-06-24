@@ -35,14 +35,16 @@ const sidebars = {
     {
       type: 'category',
       label: 'User and Developer Documentation',
-      items: ["next/getting-started-developer", "next/tilli-software-requirements-specifications", "next/integrating-tilli-with-external-services",
-        "next/tilli-beneficiary-registration-tool", "next/tilli-crowd-fundraise-module", "next/user-manual"],
+      items: ["next/getting-started-developer",
+        //  "next/tilli-software-requirements-specifications", "next/integrating-tilli-with-external-services",
+        //   "next/tilli-beneficiary-registration-tool", "next/tilli-crowd-fundraise-module", "next/user-manual"
+      ],
     },
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ["tutorial-basics/tilli-web", "tutorial-basics/tilli-docs", "tutorial-basics/tilli-Integrated-server", "tutorial-basics/tilli-ide"],
-    },
+    // {
+    //   type: 'category',
+    //   label: 'Tutorial',
+    //   items: ["tutorial-basics/tilli-web", "tutorial-basics/tilli-docs", "tutorial-basics/tilli-Integrated-server", "tutorial-basics/tilli-ide"],
+    // },
   ],
 
 

@@ -70,8 +70,8 @@ If you are interested in creating and designing in UI/UX, animations, photos, in
 
 This repository uses [eslint ](https://github.com/eslint/eslint)to enforce [air-bnb coding styles](https://github.com/airbnb/javascript).
 
-## Connect with Tilli Contributors
+<!-- ## Connect with Tilli Contributors
 
-If you want to connect with our contributors, you can connect us at [![Join the chat at https://gitter.im/bockies/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bockies/community?utm_source=badge&utm_medium=badge&utm_content=badge)
+If you want to connect with our contributors, you can connect us at [![Join the chat at https://gitter.im/bockies/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bockies/community?utm_source=badge&utm_medium=badge&utm_content=badge) -->
 
 Last updated : 27/06/2022

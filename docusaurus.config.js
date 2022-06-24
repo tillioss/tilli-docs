@@ -65,13 +65,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'tutorial-basics/tilli-web',
+            docId: 'next/project-charter',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/zimode-solutions/tilli-docs',
+            href: 'https://github.com/tillioss/tilli-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -109,13 +109,13 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/zimode-solutions/tilli-docs',
+                href: 'https://github.com/tillioss/tilli-docs',
               },
             ],
           },

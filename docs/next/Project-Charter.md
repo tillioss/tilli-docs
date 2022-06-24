@@ -1,5 +1,6 @@
 ---
 id: project-charter
+
 ---
 
 # Project Charter

@@ -3,7 +3,6 @@ id: OpensourceQAProcess
 ---
 # Opensource Quality Assuarance Process
 
-![Tilli_QA_Process](https://assets.rumsan.com/esatya/open-source-qa-process-.png)
 
 Tilli’s Quality Assurance Process comprises 8 major steps. 
 1. Product Development 
