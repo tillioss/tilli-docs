@@ -2,7 +2,7 @@
  * Creating a sidebar enables you to:
  - create an ordered group of docs
  - render a sidebar for each doc of that group
- - provide next/previous navigation
+ - provide /previous navigation
 
  The sidebars can be generated from the filesystem, or explicitly defined here.
 
@@ -24,18 +24,18 @@ const sidebars = {
       type: 'category',
       label: 'Introduction',
       items: [
-        "next/project-charter"],
+        "project-charter"],
     },
     {
       type: 'category',
       label: 'Open Source',
-      items: ["next/licenses", "next/os-strategy", "next/OpensourceQAProcess",
-        "next/Contribution-Guidelines", "next/code-of-conduct"],
+      items: ["licenses", "os-strategy", "OpensourceQAProcess",
+        "Contribution-Guidelines", "code-of-conduct"],
     },
     {
       type: 'category',
       label: 'User and Developer Documentation',
-      items: ["next/getting-started-developer",
+      items: ["getting-started-developer",
       ],
     },
   ],

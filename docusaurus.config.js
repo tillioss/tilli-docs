@@ -9,7 +9,7 @@ const config = {
   title: 'Tilli Docs',
   tagline: 'Tilli Docs',
   url: 'https://tillioss.github.io',
-  baseUrl: '/tilli-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/tilli.png',
@@ -57,15 +57,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Tilli Docs',
+        title: 'Tilli',
         logo: {
-          alt: 'tilli Docs Logo',
+          alt: 'tilli  Logo',
           src: 'img/tilli.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'next/project-charter',
+            docId: 'project-charter',
             position: 'left',
             label: 'Docs',
           },
@@ -80,15 +80,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Tutorial',
+          //       to: '/docs/intro',
+          //     },
+          //   ],
+          // },
           // {
           //   title: 'Community',
           //   items: [
@@ -106,21 +106,21 @@ const config = {
           //     },
           //   ],
           // },
-          {
-            title: 'More',
-            items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/tillioss/tilli-docs',
-              },
-            ],
-          },
+          // {
+          //   title: 'More',
+          //   items: [
+          //     {
+          //       label: 'Blog',
+          //       to: '/blog',
+          //     },
+          //     {
+          //       label: 'GitHub',
+          //       href: 'https://github.com/tillioss/tilli-docs',
+          //     },
+          //   ],
+          // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Tilli Docs, Inc. Built with Docusaurus.`,
+        copyright: ` © ${new Date().getFullYear()} by Tilli.`,
       },
       prism: {
         theme: lightCodeTheme,
