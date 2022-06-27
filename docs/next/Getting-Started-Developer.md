@@ -20,13 +20,13 @@ To run Tilli in your system please make sure you have the following app and libr
 To set up this software on your machine locally:
 
 Clone this repository https://github.com/tillioss/tilli-backend-server
-
+```
 $ cd tilli-backend-server
-
+```
 To run locally - using SBT.
-
+```
 sbt "runMain com.teqbahn.bootstrap.StarterMain local 2553 8093 192.0.0.1 127.0.0.1:6379 xxxx@xyz.com password123 saltkey"
-
+```
 server running environment : local
 
 akkaPort : 2553

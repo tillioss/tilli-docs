@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Tilli Docs',
   tagline: 'Tilli Docs',
-  url: 'https://teqbahn.github.io',
+  url: 'https://tillioss.github.io',
   baseUrl: '/tilli-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'teqbahn', // Usually your GitHub org/user name.
+  organizationName: 'tillioss', // Usually your GitHub org/user name.
   projectName: 'tilli-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful

@@ -25,8 +25,8 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
+      <main style={{backgroundColor:"#2e8555"}}>
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );
