@@ -35,7 +35,7 @@ $ cd tilli-backend-server
 To stop your redis
 ```/etc/init.d/redis-server stop```
 
-If you Need backup your existing data
+If you need backup your existing data
 ```cd /var/lib/redis/cp dump.rdb dump1.rdb```
 
 Replace redis data
@@ -51,33 +51,33 @@ Restart your redis
 ```sbt "runMain com.teqbahn.bootstrap.StarterMain local 2553 8093  [ServerIP]  [RedisIP]:[RedisPort] [MailId] [MailPassword] [Filepath]"```
 
 
-local - server running environment 
+- local - server running environment 
 
-2553 - Akka Port 
+- 2553 - Akka Port 
 
-8093 - Attp Port 
+- 8093 - Attp Port 
 
-httpHostName : 192.0.0.1
+- httpHostName : 192.0.0.1
 
 
-[ServerIP]  - Replace your system IP Address 
+- [ServerIP]  - Replace your system IP Address 
  *** Ex : 192.0.0.1 ***
 
-[RedisIP] - Replace your Redis IP Address
+- [RedisIP] - Replace your Redis IP Address
   *** Ex : 127.0.0.1 ***
 
-[RedisPort] -  Replace your Redis Port
+- [RedisPort] -  Replace your Redis Port
   *** Ex : 6379 ***
 
 **If you required send mail, Please configure mail setup otherWise use the dummy values.**
 
-[MailId]  -  Replace your mail id 
+- [MailId]  -  Replace your mail id 
  *** Ex : xxxx@xyz.com ***
 
-[MailPassword]  -  Replace your password 
+- [MailPassword]  -  Replace your password 
  *** Ex : password123 ***
 
-[filepath] - Replace your system filepath 
+- [filepath] - Replace your system filepath 
  *** Ex : /html/tilli ***
 
 *** Ex : ***
@@ -127,5 +127,5 @@ UserName :tilliadmin
 
 Password :tilliadmin
 
-
+---
 Last updated:14/07/2022
