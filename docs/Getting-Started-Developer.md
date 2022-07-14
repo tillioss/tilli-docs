@@ -1,4 +1,4 @@
-﻿---
+---
 id: getting-started-developer
 ---
 
@@ -14,7 +14,7 @@ To run Tilli in your system please make sure you have the following app and libr
 - `Node-js --version == 10.18.1`
 - `Yarn --version == 1.21.1`
 
-
+---
 ## Installing Tilli Server
 
 To set up this software on your machine locally:
@@ -23,57 +23,109 @@ Clone this repository https://github.com/tillioss/tilli-backend-server
 ```
 $ cd tilli-backend-server
 ```
-To run locally - using SBT.
-```
-sbt "runMain com.teqbahn.bootstrap.StarterMain local 2553 8093 192.0.0.1 127.0.0.1:6379 xxxx@xyz.com password123 saltkey"
-```
-server running environment : local
 
-akkaPort : 2553
+## tilli-backend-server
 
-httpPort : 8093
+## Required 
+
+ 1.Please Install Redis in Your System
+
+## Redis Setup 
+
+To stop your redis
+```/etc/init.d/redis-server stop```
+
+If you Need backup your existing data
+```cd /var/lib/redis/cp dump.rdb dump1.rdb```
+
+Replace redis data
+
+```cp tilli-backend-server/data/dump.rdb /var/lib/redis/```
+
+Restart your redis
+```/etc/init.d/redis-server restart```
+
+---
+## To run locally - using SBT.
+
+```sbt "runMain com.teqbahn.bootstrap.StarterMain local 2553 8093  [ServerIP]  [RedisIP]:[RedisPort] [MailId] [MailPassword] [Filepath]"```
+
+
+local - server running environment 
+
+2553 - Akka Port 
+
+8093 - Attp Port 
 
 httpHostName : 192.0.0.1
 
-Replace your system IP Address : 192.0.0.1
 
-Replace your mail id : xxxx@xyz.com
+[ServerIP]  - Replace your system IP Address 
+ *** Ex : 192.0.0.1 ***
 
-Replace your password : password123
+[RedisIP] - Replace your Redis IP Address
+  *** Ex : 127.0.0.1 ***
 
-Replace your host and port number(host:port) 127.0.0.1:6379
+[RedisPort] -  Replace your Redis Port
+  *** Ex : 6379 ***
 
+**If you required send mail, Please configure mail setup otherWise use the dummy values.**
 
+[MailId]  -  Replace your mail id 
+ *** Ex : xxxx@xyz.com ***
 
+[MailPassword]  -  Replace your password 
+ *** Ex : password123 ***
 
+[filepath] - Replace your system filepath 
+ *** Ex : /html/tilli ***
 
-## Installing Tilli Web
+*** Ex : ***
+```sbt "runMain com.teqbahn.bootstrap.StarterMain local 2553 8093  192.1.0.1  127.0.0.1:6379 xxxx@xyz.com password123 /html/tilli"```
 
-1. Clone this repository https://github.com/tillioss/tilli-web-app
-2. Update .env file to add URL of your Tilli Web
-   `REACT_APP_API_SERVER=http://localhost:3800`
+---
+## Installing Tilli Web App
 
-3. Install required dependencies and compile smart contracts
-   ``npm install`
+### 1. Configuration :
 
-4. Start the server
-   `npm start`
-5. Now, in your browser go to http://localhost:3000 and follow the setup instructions on screen.
+a. Need to change IP address and Port in config/Myconstant.js :
 
+**Ex apiURL :**  http://192.yyy.1.xxx:8093/tilli-api/
 
+### 2. How to run? Yarn/npm/
+a. Use below CMD to install modules :
+
+``npm install``
+
+b. Enter below CMD to start :
+
+``npm start``
+
+**Running Url :**  http://localhost:3023/tilli-web/
+
+---
 
 ## Installing Tilli IDE
 
-1. Clone this repository https://github.com/tillioss/tilli-ide.git
-2. Update .env file to add URL of your Tilli IDE
-   `REACT_APP_API_SERVER=http://localhost:3800`
+### 1. Configuration :
+a. Need to change IP address and Port in config/Myconstant.js :
 
-3. Install required dependencies and compile smart contracts
-   ``npm install`
+**Ex apiURL :** http://192.yyy.1.xxx:8093/tilli-api/
 
-4. Start the server
-   `npm start`
-5. Now, in your browser go to http://localhost:3000 and follow the setup instructions on screen.
+### 2. How to run? Yarn/npm/..
+a. Use below CMD to install modules :
+
+``npm install``
+
+b. Enter below CMD to start :
+
+``npm start``
+
+**Running Url :** 'http://localhost:3022/tilli/'
+
+UserName :tilliadmin
+
+Password :tilliadmin
 
 
-Last updated:27/06/2022
+Last updated:14/07/2022
