@@ -11,11 +11,8 @@
 We have created guidelines for contributing to Tilli project and packages. These are guidelines, not rules. We encourage you to use your best judgment, and feel free to recommend changes to this document in a pull request. We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
 # How to contribute to the Tilli Project?
-
-This section guides you through submitting a bug report for Tilli. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports
-You can submit a bug report or any suggestions on this project through github issues.
-When you are creating a bug report, please include as many details as possible. Fill out the required template, the information it asks for helps us resolve issues faster.
-The best way to contribute to this project is by making a pull request in following ways
+ 
+  The best way to contribute to this project is by making a pull request in following ways
 
 -   Fork the Tilli project and work on your fork
 -   Create a new branch on which you want to make changes - “git checkout -b ‘my-contribution’ ” or push your changes on develop branch
@@ -24,9 +21,9 @@ The best way to contribute to this project is by making a pull request in follow
 -   Submit a pull request against the Tilli repository.
     In general, all pull requests must:
 -   Have a clear use case, fix a demonstrable bug or serve the greater good of the project
--   Have unit tests, functional tests, and fuzz tests, where appropriate;
+-   Have unit tests, where appropriate;
 -   Follow code style guidelines
--   Not break the existing test suite;
+-   Not break the existing test suite
 -   Where bugs are fixed, where possible, there should be unit tests demonstrating the bug and also proving the fix. This helps prevent regression.
 -   Change relevant comments and documentation when the behavior of code changes.
 
