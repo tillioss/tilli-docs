@@ -24,11 +24,7 @@ Clone this repository https://github.com/tillioss/tilli-backend-server
 $ cd tilli-backend-server
 ```
 
-## tilli-backend-server
-
-## Required 
-
- 1.Please Install Redis in Your System
+ **Note** :  Please Install Redis in Your System.
 
 ## Redis Setup 
 
@@ -46,9 +42,15 @@ Restart your redis
 ```/etc/init.d/redis-server restart```
 
 ---
+## File Setup
+Move and extract data files from ```tilli-backend-server/data/files.zip``` to [your_data_path]
+
+**Ex :**```cp tilli-backend-server/data/files.zip [your_data_path]```
+
+---
 ## To run locally - using SBT.
 
-```sbt "runMain com.teqbahn.bootstrap.StarterMain local 2553 8093  [ServerIP]  [RedisIP]:[RedisPort] [MailId] [MailPassword] [Filepath]"```
+```sbt "runMain com.teqbahn.bootstrap.StarterMain local 2553 8093  [ServerIP]  [RedisIP]:[RedisPort] [MailId] [MailPassword] [your_data_path]"```
 
 
 - local - server running environment 
@@ -77,7 +79,7 @@ Restart your redis
 - [MailPassword]  -  Replace your password 
  *** Ex : password123 ***
 
-- [filepath] - Replace your system filepath 
+- [your_data_path] - Replace your system filepath 
  *** Ex : /html/tilli ***
 
 *** Ex : ***
