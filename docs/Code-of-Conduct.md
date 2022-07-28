@@ -54,10 +54,6 @@ All community leaders are obligated to respect the privacy and security of the r
 ## Community Spaces
 
 - Github
-- Websites
-- FB
-- Discord
-- Medium
 - Mail
 
 ## Enforcement Guidelines
