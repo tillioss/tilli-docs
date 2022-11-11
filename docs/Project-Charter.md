@@ -28,7 +28,7 @@ The values of each community will be reflected using this process while the voic
 
 ## Logo
 
-![Tilli Logo](https://static.wixstatic.com/media/782f69_49cf61157d87420a89f4d8cd13a93bf7~mv2.png/v1/fill/w_330,h_168,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo.png)
+![Tilli Logo](https://static.wixstatic.com/media/782f69_49cf61157d87420a89f4d8cd13a93bf7~mv2.png)
 
 ## Typography
 
