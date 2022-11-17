@@ -30,13 +30,7 @@ The values of each community will be reflected using this process while the voic
 
 ![Tilli Logo](https://static.wixstatic.com/media/782f69_49cf61157d87420a89f4d8cd13a93bf7~mv2.png)
 
-## Typography
 
-Good typography can help build a visual hierarchy, make text easier to read, and communicate a brand’s personality. We use typography to communicate our values.
-
-We have used the font OPEN SANS. We chose for the open sans typeface for its humanist nature which is characterized by low contrast between thin and thick strokes, loose letter spacing, and wide counters, making them more legible for small-sized text
-
-There is no thick/thin transition in the strokes, they are the same thickness the whole way around. The result is a sans serif typeface with multiple variants and multiple possibilities of use, both in the publishing world as well as for branding etc.
 
 
 Last updated :27/06/2022
