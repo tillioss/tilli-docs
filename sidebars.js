@@ -29,8 +29,8 @@ const sidebars = {
    {
      type: 'category',
       label: 'Brand',
-      items: ["Brand Guidelines", "Logo", "Color",
-        "Typography", "Art assets"],
+      items: ["Brand-Guidelines", "Logo", "Color",
+        "Typography", "Art-assets"],
    },
     {
       type: 'category',
