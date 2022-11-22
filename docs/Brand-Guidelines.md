@@ -1,5 +1,5 @@
 ---
-id: Brand Guidelines
+id: Brand-Guidelines
 
 ---
 
