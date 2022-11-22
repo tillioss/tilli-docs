@@ -12,6 +12,7 @@ FF5C5C
 517BC0
 15CED5
 FAD202
+![ColorPalette](./images/ColorPalette.png "ColorPalette")
 
 
 ## Do and Donts with Colors
