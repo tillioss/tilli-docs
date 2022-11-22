@@ -5,12 +5,9 @@ id: project-charter
 
 # Project Charter
 
-### VISION
+### ABOUT TILLI
 
-Build a global open source community to localize and deliver equitable and culturally relevant SEL content at scale. This will make social emotional learning more accessible to teachers, parents and kids in countries and communities around the world with Tilli serving as a major resource post-covid to close specific learning gaps in schools and in the home for kids ages 5 - 10.
-
-
-### MISSION
+Build a global open source community to localize and deliver equitable and culturally relevant SEL content at scale. This will make social emotional learning more accessible to teachers, parents and kids in countries and communities around the world with Tilli serving as a major resource post-covid to close specific learning gaps in schools and in the home for kids ages 5-10.
 
 Tilli creates a scalable design system for educators and developers to quickly build customized social emotional learning with curated inputs from a range of stakeholders including girls, those with disabilities, those living in poverty, from rural and urban areas, and conflict zones.
 
@@ -31,15 +28,9 @@ The values of each community will be reflected using this process while the voic
 
 ## Logo
 
-![Tilli Logo](https://tilli.teqbahn.com/tilli/media/logos.ce9f7e7b.png "tilli logo")
+![Tilli Logo](https://static.wixstatic.com/media/782f69_49cf61157d87420a89f4d8cd13a93bf7~mv2.png)
 
-## Typography
 
-Good typography can help build a visual hierarchy, make text easier to read, and communicate a brand’s personality. We use typography to communicate our values.
-
-We have used the font OPEN SANS. We chose for the open sans typeface for its humanist nature which is characterized by low contrast between thin and thick strokes, loose letter spacing, and wide counters, making them more legible for small-sized text
-
-There is no thick/thin transition in the strokes, they are the same thickness the whole way around. The result is a sans serif typeface with multiple variants and multiple possibilities of use, both in the publishing world as well as for branding etc.
 
 
 Last updated :27/06/2022
