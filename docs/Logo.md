@@ -24,7 +24,6 @@ Use contrasting colors in the background so that all letters in the logo are vis
 In case if the background has one of the primary colors from the logo then use the white outline on the logo
 ![LogoGuide2](./images/LogoGuide2.png "LogoGuide2")
 Avoid using full-color logos on photographs unless the logo sits on a black or white area of the image.
-
 ![LogoGuide4](./images/LogoGuide4.png "LogoGuide4")
 
 
@@ -33,4 +32,4 @@ To allow our logo to be prominent, do not add any graphics around the logo as sh
  ![LogoGuide1](./images/LogoGuide1.png "LogoGuide1")
 When creating composition, place the logo at the corner or center it on the central vertical axis.
 ![LogoGuide3](./images/LogoGuide3.png "LogoGuide3")
-Usually the logo is used in horizontal axis. We can rotate it by 90degree to place it vertically.
+Usually the logo is used in horizontal axis.
