@@ -13,9 +13,9 @@ Logo has been designed as per kids brand into consideration.
 ### Logotype
 Fredoka
 Logotype can be used in one of the 3 ways:
--Tilli Logo has the primary 5 brand colors.
--Tilli Logo can also be use with just 1 color as per the requirement.
--A white outline hasbeen added. This design can be used when needed. 
+- Tilli Logo has the primary 5 brand colors.
+- Tilli Logo can also be use with just 1 color as per the requirement.
+- A white outline hasbeen added. This design can be used when needed. 
 
 
 ### Logo Do and Don’ts
