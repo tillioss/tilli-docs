@@ -23,7 +23,9 @@ Can be used with all 5 brand colors. Do not interchange the colors of the respes
 Use contrasting colors in the background so that all letters in the logo are visible.
 In case if the background has one of the primary colors from the logo then use the white outline on the logo
 ![LogoGuide2](./images/LogoGuide2.png "LogoGuide2")
+Avoid using full-color logos on photographs unless the logo sits on a black or white area of the image.
 
+![LogoGuide4](./images/LogoGuide4.png "LogoGuide4")
 
 
 ### Logo usage
