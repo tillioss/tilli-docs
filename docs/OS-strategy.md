@@ -20,17 +20,18 @@ Module 3: Digital Safety
 
 Each module has specific modules, user flows, and mini games that can be repurposed.
 
-Module 1:
+##### Module 1:
 Emotion recognition module: allows the user to pick their current emotion/feeling
 Voice input module: allows the user to record multiple voice inputs 
 Mini games: This module 6 mini games that use strategies like meditation, yoga and breathing activities. These have been built on Godot.
 
-Module 2: 
+##### Module 2: 
 Learning module: A series of learning cards 
 Trust circle case studies: A series of stories, that users read and then get to drag and drop where each new character will be on a trust circle 
 Leaderboard 
 
-Content Management System 
+#### Content Management System 
+
 We also have a content management system that allows creators to use some of the core components found in the 3 modules to build their own gamified, learning experiences in the form of web apps. 
 
 [here.](https://tillioss.github.io/tilli-docs/docs/project-charter)
