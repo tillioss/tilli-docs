@@ -35,7 +35,7 @@ The values of each community will be reflected using this process while the voic
 
 ## Logo
 
-![Tilli Logo](https://static.wixstatic.com/media/782f69_49cf61157d87420a89f4d8cd13a93bf7~mv2.png)
+ ![LogoMain](./images/LogoMain.png "LogoMain") 
 
 
 
