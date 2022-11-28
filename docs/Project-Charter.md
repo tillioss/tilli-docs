@@ -7,9 +7,16 @@ id: project-charter
 
 ### ABOUT TILLI
 
-Build a global open source community to localize and deliver equitable and culturally relevant SEL content at scale. This will make social emotional learning more accessible to teachers, parents and kids in countries and communities around the world with Tilli serving as a major resource post-covid to close specific learning gaps in schools and in the home for kids ages 5-10.
+Tilli 
+Tilli is a play-based, social-emotional learning tool that brings together the joys of play and the power of behavioural science to help kids (alongside their caregivers and teachers) build foundational, lifelong skills and mindsets to be stay, safe and happy. 
 
-Tilli creates a scalable design system for educators and developers to quickly build customized social emotional learning with curated inputs from a range of stakeholders including girls, those with disabilities, those living in poverty, from rural and urban areas, and conflict zones.
+Tilli has a series of play based modules focused on a range of social emotional learning skills that help kids: 
+
+- Recognize and label their feelings and emotions 
+- Articulate their feelings and communicate their needs 
+- Practise healthy coping strategies that help them manage big feelings 
+- Understand how to set personal boundaries and develop body safety skills 
+- Develop clearer mental models around trust
 
 
 ### COMMUNITY STATEMENT 
@@ -28,7 +35,7 @@ The values of each community will be reflected using this process while the voic
 
 ## Logo
 
-![Tilli Logo](https://static.wixstatic.com/media/782f69_49cf61157d87420a89f4d8cd13a93bf7~mv2.png)
+ ![LogoMain](./images/LogoMain.png "LogoMain") 
 
 
 
