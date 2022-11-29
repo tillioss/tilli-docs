@@ -7,7 +7,6 @@ id: project-charter
 
 ### ABOUT TILLI
 
-Tilli 
 Tilli is a play-based, social-emotional learning tool that brings together the joys of play and the power of behavioural science to help kids (alongside their caregivers and teachers) build foundational, lifelong skills and mindsets to be stay, safe and happy. 
 
 Tilli has a series of play based modules focused on a range of social emotional learning skills that help kids: 
