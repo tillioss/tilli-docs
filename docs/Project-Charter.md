@@ -39,4 +39,4 @@ The values of each community will be reflected using this process while the voic
 
 
 
-Last updated :27/06/2022
+Last updated :30/11/2022
