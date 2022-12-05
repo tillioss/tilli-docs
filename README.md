@@ -18,6 +18,7 @@ We are a community of learning designers, game designers, developers and educato
 ## Get in Touch 
 Learn more about what we are doing at our official website [tillikids.com/opensource](www.tillikids.com/opensource) <br>For more technical information, visit our documentation website [tillioss.github.io](https://tillioss.github.io/docs/project-charter) or email us at support@tillikids.org
 
+## Commands to Deploy Tilli Project Charter
 
 Using npm :
 
