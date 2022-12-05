@@ -34,4 +34,6 @@ $ GIT_USER=<GITHUB_USERNAME> npm run deploy
 
 ```
 ## Get in Touch 
-Learn more about what we are doing at our official website [tillikids.com/opensource](www.tillikids.com/opensource) <br>For more technical information, visit our documentation website [tillioss.github.io](https://tillioss.github.io/docs/project-charter) or email us at support@tillikids.org
+
+Learn more about what we are doing at our official website [tillikids.com/opensource](www.tillikids.com/opensource) <br>For more technical information, visit our documentation website [tillioss.github.io](https://tillioss.github.io/docs/project-charter) or write to any of our team members at support@tillikids.org for any doubts or queries.
+To know more about our [team members](https://www.tillikids.com/team)
