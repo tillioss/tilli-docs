@@ -17,6 +17,8 @@ We are a community of learning designers, game designers, developers and educato
 
 We would love your input! We want to make contributing to this project as easy and transparent as possible so kindly go through our contribution guidelines here: [Contribution Guidelines](https://tillioss.github.io/docs/Contribution-Guidelines)
 
+### Code of Conduct
+
 <br>Please note that Tilli’s open-source projects are governed by our [Code of conduct](https://tillioss.github.io/docs/code-of-conduct). 
 
 ## Commands to Deploy Tilli Project Charter
