@@ -1,7 +1,7 @@
 # Tilli Project Charter
 
 This documentation website is dedicated to Parents, Teachers, Educators, Social Workers, Designers and Developers who want to create their own Social Emotional Learning/ Safety Modules using our software and open to use content. This is maintained by the Tilli Team directly inside the project repository.
-- Tilli Project Charter: https://tillioss.github.io/docs/project-charter
+- Tilli Documentation: https://tillioss.github.io/docs/project-charter
 - GitHub Project: https://github.com/tillioss
 - Public Website: www.tillikids.com/opensource
 
