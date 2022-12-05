@@ -72,7 +72,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/tillioss/tilli-docs',
+            href: 'https://github.com/tillioss',
             label: 'GitHub',
             position: 'right',
           },
