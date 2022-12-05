@@ -9,7 +9,7 @@ We are a community of learning designers, game designers, developers and educato
 <br>Please note that Tilli’s open-source projects are governed by our [Code of conduct](https://tillioss.github.io/docs/code-of-conduct). 
 
 ## Get in Touch 
-Learn more about what we are doing at our official website [tillikids.com](https://www.tillikids.com/) <br>For more technical information, visit our documentation website [tilli-docs](https://tillioss.github.io/) or email us at support@tillikids.org
+Learn more about what we are doing at our official website [tillikids.com](https://www.tillikids.com/) <br>For more technical information, visit our documentation website [tillioss.github.io](https://tillioss.github.io/) or email us at support@tillikids.org
 
 
 Using npm :
