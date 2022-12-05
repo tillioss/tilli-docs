@@ -1,5 +1,12 @@
-# Tilli Docs
+# Tilli Project Charter
 
+This documentation website is dedicated to Parents, Teachers, Educators, Social Workers, Designers and Developers who want to create their own Social Emotional Learning/ Safety Modules using our software and open to use content. This is maintained by the Tilli Team directly inside the project repository.
+- Tilli Project Charter: https://tillioss.github.io/docs/project-charter
+- GitHub Project: https://github.com/tillioss
+- Public Website: www.tillikids.com/opensource
+
+
+## About Tilli
 
 Tilli is a play-based, social-emotional learning tool that brings together the joys of play and the power of behavioural science to help kids (alongside their caregivers and teachers) build foundational, lifelong skills and mindsets to be stay, safe and happy
 
