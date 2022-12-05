@@ -11,12 +11,13 @@ This documentation website is dedicated to Parents, Teachers, Educators, Social 
 Tilli is a play-based, social-emotional learning tool that brings together the joys of play and the power of behavioural science to help kids (alongside their caregivers and teachers) build foundational, lifelong skills and mindsets to be stay, safe and happy
 
 ## Participating in Community 
-We are a community of learning designers, game designers, developers and educators with an interest in designing game-based, social emotional learning experience for kids. We create an environment where our community can effectively explore, create innovative and open aid distribution technology services that are inclusive, accountable, and accessible for everyone. 
+We are a community of learning designers, game designers, developers and educators with an interest in designing game-based, social emotional learning experience for kids. We create an environment where our community can effectively explore, create innovative and open aid distribution technology services that are inclusive, accountable, and accessible for everyone.
+
+### Contribution Guidelines
+
+We would love your input! We want to make contributing to this project as easy and transparent as possible so kindly go through our contribution guidelines here: [Contribution Guidelines](https://tillioss.github.io/docs/Contribution-Guidelines)
 
 <br>Please note that Tilli’s open-source projects are governed by our [Code of conduct](https://tillioss.github.io/docs/code-of-conduct). 
-
-## Get in Touch 
-Learn more about what we are doing at our official website [tillikids.com/opensource](www.tillikids.com/opensource) <br>For more technical information, visit our documentation website [tillioss.github.io](https://tillioss.github.io/docs/project-charter) or email us at support@tillikids.org
 
 ## Commands to Deploy Tilli Project Charter
 
@@ -28,3 +29,5 @@ $ npm run build
 $ GIT_USER=<GITHUB_USERNAME> npm run deploy
 
 ```
+## Get in Touch 
+Learn more about what we are doing at our official website [tillikids.com/opensource](www.tillikids.com/opensource) <br>For more technical information, visit our documentation website [tillioss.github.io](https://tillioss.github.io/docs/project-charter) or email us at support@tillikids.org
