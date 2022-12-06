@@ -7,7 +7,6 @@ id: project-charter
 
 ### ABOUT TILLI
 
-Tilli 
 Tilli is a play-based, social-emotional learning tool that brings together the joys of play and the power of behavioural science to help kids (alongside their caregivers and teachers) build foundational, lifelong skills and mindsets to be stay, safe and happy. 
 
 Tilli has a series of play based modules focused on a range of social emotional learning skills that help kids: 
@@ -21,7 +20,7 @@ Tilli has a series of play based modules focused on a range of social emotional 
 
 ### COMMUNITY STATEMENT 
 
-Tilli actively reaches out to identify and build community among parents, caregivers, kids, educators, developers, designers, language workers, and community leaders. Tilli uses an inclusive community building approach to nurture under-resourced languages and emphasize inputs from girls, those with disabilities, from rural and urban areas, and conflict zones. This enables Tilli to meet the needs of our stakeholders in a variety of languages and communities. Our stakeholders include girls in rural communities, under-resourced languages and kids with disabilities and those living in conflict zones.
+Tilli actively reaches out to identify and build community among parents, caregivers, kids, educators, developers, designers, local content creators, linguists, and community leaders. Tilli uses an inclusive community building approach to nurture under-resourced languages and emphasize inputs from girls, those with disabilities, from rural and urban areas, and conflict zones. This enables Tilli to meet the needs of our stakeholders in a variety of languages and communities. Our stakeholders include girls in rural communities, under-resourced languages and kids with disabilities and those living in conflict zones.
 
 By submitting :
 - developer feedback;
@@ -40,4 +39,4 @@ The values of each community will be reflected using this process while the voic
 
 
 
-Last updated :27/06/2022
+Last updated :30/11/2022
