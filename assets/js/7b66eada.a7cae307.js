@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktilli_docs=self.webpackChunktilli_docs||[]).push([[2744],{5764:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/tilli-docs/blog/tags/hola","allTagsPath":"/tilli-docs/blog/tags","count":1}')}}]);
