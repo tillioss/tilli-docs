@@ -63,14 +63,13 @@ body:
       - Tilli Web App
       - Tilli Documentation
 - type: dropdown
-  id: download
+  id: priority
   attributes:
     label: How did you download the software?
     options:
-      - Homebrew
-      - MacPorts
-      - apt-get
-      - Built from source
+      - High Priority
+      - Medium Priority
+      - Low Priority
   validations:
     required: true
 - type: checkboxes
