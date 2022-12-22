@@ -36,7 +36,21 @@ const sidebars = {
       type: 'category',
       label: 'Open Source',
       items: ["licenses", "os-strategy", "OpensourceQAProcess",
-        "Contribution-Guidelines", "code-of-conduct"],
+        "Contribution-Guidelines", "code-of-conduct", "User-Documentation"],
+    },
+    {
+      type: 'category',
+      label: 'Documentation',
+      items: [{
+        type: 'category',
+        label: 'User Documentation',
+        items: ["User-Getting-Started","Content-Creators", "Parents", "Teachers","Translators"],
+      },{
+        type: 'category',
+        label: 'Developer Documentation',
+        items: ["Developer-Getting-Started","Tilli-Server", "IDE", "Tilli-Documentation"],
+      },
+      ],
     },
     {
       type: 'category',
