@@ -66,7 +66,7 @@ body:
   id: priority
   attributes:
     label: Priority
-    description: "Primary user stories must be completed, while secondary user stories are \"nice to have\" changes."
+    description: "Primary user =stories must be completed, while secondary user stories are \"nice to have\" changes."
     options:
       - High Priority
       - Medium Priority
