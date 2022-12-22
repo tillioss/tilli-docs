@@ -1,6 +1,6 @@
 name: Bug Report Form
 description: File a bug Report for our Tilli Documentation
-title: "Found a [bug], [spelling error],[wrong info or link]"
+title: ["bug", "spelling error","wrong info or link"]
 labels: ["bug","documentation"]
 assignees:
   - Tilliforkids
@@ -65,14 +65,14 @@ body:
 - type: dropdown
   id: priority
   attributes:
-    label: Priority
-    description: "High Priority= must be completed as soon possible, Medium Priority= need to be completed but can wait after high priority items, Low Priority= \"nice to have\" changes."
+    label: priority
+    description: "High Priority are must be completed as soon possible, Medium Priority= need to be completed but can wait after high priority items, Low Priority are \"nice to have\" changes."
     multiple: false
     options:
       - High Priority
       - Medium Priority
       - Low Priority
-  validations:
+   validations:
     required: true
 - type: checkboxes
   id: terms
