@@ -66,7 +66,7 @@ body:
   id: priority
   attributes:
     label: Priority
-    description: "High Priority are must be completed as soon possible, Medium Priority= need to be completed but can wait after high priority items, Low Priority are \"nice to have\" changes"
+    description: "High Priority= must be completed as soon possible, Medium Priority= need to be completed but can wait after high priority items, Low Priority= \"nice to have\" changes"
     multiple: false
     options:
       - High Priority
