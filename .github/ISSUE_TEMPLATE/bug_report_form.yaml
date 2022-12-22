@@ -63,16 +63,15 @@ body:
       - Tilli Web App
       - Tilli Documentation
 - type: dropdown
-  id: priority
+  id: download
   attributes:
-    label: priority
-    description: "High Priority= must be completed as soon possible, Medium Priority= need to be completed but can wait after high priority items, Low Priority are \"nice to have\" changes."
-    multiple: false
+    label: How did you download the software?
     options:
-      - High Priority
-      - Medium Priority
-      - Low Priority
-   validations:
+      - Homebrew
+      - MacPorts
+      - apt-get
+      - Built from source
+  validations:
     required: true
 - type: checkboxes
   id: terms
