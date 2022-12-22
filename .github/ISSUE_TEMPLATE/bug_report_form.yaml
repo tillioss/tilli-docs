@@ -65,7 +65,7 @@ body:
 - type: dropdown
   id: priority
   attributes:
-    label: How did you download the software?
+    label: Priority
     options:
       - High Priority
       - Medium Priority
