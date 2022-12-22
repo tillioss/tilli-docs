@@ -62,18 +62,6 @@ body:
       - IDE
       - Tilli Web App
       - Tilli Documentation
-- type: dropdown
-  id: priority
-  attributes:
-    label: priority
-    description: "High Priority= must be completed as soon possible, Medium Priority= need to be completed but can wait after high priority items, Low Priority are \"nice to have\" changes."
-    multiple: false
-    options:
-      - High Priority
-      - Medium Priority
-      - Low Priority
-   validations:
-    required: true
 - type: checkboxes
   id: terms
   attributes:
