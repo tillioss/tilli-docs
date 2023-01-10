@@ -25,7 +25,6 @@ body:
     label: What is your Feedback/ Doubt?
     description: Kindly elaborate the same or what did you expect to happen or what went wrong,  and how can we improve?
     placeholder: Tell us what you’d like to know or see. Suggestions are welcome
-    value: "Here is a suggestion to improve XYZ! Or I’d like to know more about XYZ!"
   validations:
     required: true
 - type: dropdown
