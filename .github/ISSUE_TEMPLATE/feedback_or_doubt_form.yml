@@ -1,7 +1,7 @@
 name: Feedback/Doubts Form
 description: Suggest feedback or ask doubts for more clarity with regard to our Tilli Documentation
 title: "Have a [feedback], [doubt]"
-labels: ["bug","documentation"]
+labels: ["feedback/doubt","documentation"]
 assignees:
   - Tilliforkids
   - Briandsouza-17
