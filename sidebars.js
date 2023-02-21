@@ -22,41 +22,37 @@ const sidebars = {
 
     {
       type: 'category',
-      label: 'Introduction',
+      label: 'Getting-Started',
       items: [
-        "project-charter"],
+        "project-charter", "Glossary", "TilliDocs", "Types-of-Documentation"],
     },
-   {
-     type: 'category',
-      label: 'Brand',
-      items: ["Brand-Guidelines", "Logo", "Color",
-        "Typography", "Art-assets"],
-   },
+   
     {
       type: 'category',
-      label: 'Open Source',
-      items: ["licenses", "os-strategy", "OpensourceQAProcess",
-        "Contribution-Guidelines", "code-of-conduct", "User-Documentation"],
+      label: 'Developer Documentation',
+      items: ["Developer-Getting-Started", "Developer-Requirements", "Developer-Architecture", "GitHub-Repositories"],
     },
     {
       type: 'category',
-      label: 'Documentation',
-      items: [{
+      label: 'User Documentation',
+      items: ["User-Getting-Started",  {
         type: 'category',
-        label: 'User Documentation',
-        items: ["User-Getting-Started","Content-Creators", "Parents", "Teachers","Translators"],
-      },{
-        type: 'category',
-        label: 'Developer Documentation',
-        items: ["Developer-Getting-Started","Tilli-Server", "IDE", "Tilli-Documentation"],
-      },
-      ],
+        label: 'Types-of-Users',
+        items: ["Module-Creators", "Parents-Teachers","Translators"],
+      }],
     },
-    {
+    
+     {
+       type: 'category',
+       label: 'Open Source',
+       items: ["licenses", "os-strategy", "OpensourceQAProcess",
+         "Contribution-Guidelines", "code-of-conduct"],
+     },
+     {
       type: 'category',
-      label: 'User and Developer Documentation',
-      items: ["getting-started-developer",
-      ],
+       label: 'Brand',
+       items: ["Brand-Guidelines", "Logo", "Color",
+         "Typography", "Art-assets"],
     },
   ],
 
@@ -64,3 +60,4 @@ const sidebars = {
 };
 
 module.exports = sidebars;
+

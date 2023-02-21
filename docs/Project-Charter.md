@@ -2,8 +2,7 @@
 id: project-charter
 
 ---
-
-# Project Charter
+# Introduction
 
 ### ABOUT TILLI
 
