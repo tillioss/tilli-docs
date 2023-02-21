@@ -1,9 +1,10 @@
 ---
 id: Developer-Getting-Started
-sidebar_position: 2
+
 ---
 
-# Developer Getting Started
-This page is still work in progress and will be further extended & improved.
+# Getting Started
 
-Last updated : 20/12/2022
+This is a guide that describes how to contribute to front-end and back-end development and set up the IDE for the Module Creators in your organization in order to create more or personalized modules to suit your needs
+
+Tilli is a web-based application with scala as backend and uses truffle as a tool to compile. It uses MongoDB as a database.
