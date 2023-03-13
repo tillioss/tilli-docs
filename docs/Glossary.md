@@ -12,9 +12,9 @@ Also known as an Integrated Development Envirionment. It is a platform where one
 
 #### Module: 
 Refers to our curriculum that have a set of screens called themes based on a particular topic. In our case, we have 3 modules to teach children:
--Module 1: Feelings and Emotions
--Module 2: Trust
--Module 3: Digital Safety
+- Module 1: Feelings and Emotions
+- Module 2: Trust
+- Module 3: Digital Safety
 
 #### Assets: 
 Any digital material owned by an organization or individual including text, graphics, audio, video and animations

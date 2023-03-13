@@ -46,12 +46,14 @@ This section is still work in progress and will be further extended & improved.
 ## How to translate
  
 ### Here are some pointers to keep in mind while translating our content:
+Here are some pointers to keep in mind while translating our content:
 
 - Translation should use a conversation tone for kids to understand easier
 - The simple the words are the better (kids vocabulary)
 - Words that are repeated across the different products should have the same translation (for consistency)
-- Shorter sentences the better (wherever possible)
-- Feel free to give us feedback on the content in English. We shall do our best to improve the same :)			
+- Shorter sentences the better (wherever possible)		
+
+If you wish to translate our content or give us feedback on the content in English, kindly write to us at info@tillikids.org
 
 
 Last updated : 20/2/2023

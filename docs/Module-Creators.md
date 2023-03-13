@@ -88,21 +88,7 @@ Kindly refer to the following documentation here: (link to tilli-web-app install
 
 ### How to Give Feedback or Report Bugs or Request New Features
 
-If you encounter any issue or you are not able to figure out the same in the IDE, kindly report the issue on our official GitHub Forms: 
-
-- Bug Report Form: [HERE](https://github.com/tillioss/tilli-ide/issues/new?assignees=Tilliforkids%2Cmynap&labels=bug%2Cdevelopment&template=bug_report_form.yml&title=Found+a+%5Bbug%5D)
-- Feedback/Doubts Form: [HERE](https://github.com/tillioss/tilli-ide/issues/new?assignees=Tilliforkids%2Cmynap&labels=feedback%2Fdoubt%2Cdocumentation&template=feedback_or_doubt_form.yml&title=Have+a+%5Bfeedback%5D%2C+%5Bdoubt%5D)
-
-If you wish to suggest new features that could be beneficial for you and the community in the IDE kindly fill the following form:
-
-- Feature Request Form: [HERE](https://github.com/tillioss/tilli-ide/issues/new?assignees=Tilliforkids%2Cmynap&labels=enhancement%2Cquestion&template=feature_request.yml&title=Request+for+%5Bfeature%5D)
-
-You can also search for past issues or requests to check if any other user has already encountered your issue or suggested the same feature here: 
-
-- For open issues (yet to be solved): [HERE](https://github.com/tillioss/tilli-ide/issues)
-- For closed issues (solved): [HERE](https://github.com/tillioss/tilli-ide/issues?q=is%3Aissue+is%3Aclosed)
-
-If you wish to open an issue that does not fall in any of the above categories, kindly open a blank issue: [HERE](https://github.com/tillioss/tilli-ide/issues/new)
+Kindly go to the “Report Bugs, Issues or Share Feedback” Section in our Contribution Guidelines for filing any issue/bugs, feedback, to clarify doubts or propose a new feature through our GitHub forms.
 
 
 
@@ -137,20 +123,9 @@ Tilli’s Safety Tool Box and the modules you create can be accessed with a Web 
 Play Tilli’s Safety Toolbox here: https://tilli.teqbahn.com/tilli-web 
 
 
-### How to give feedback or report bugs
+### How to Report Bugs, Issues or Share Feedback
 
-If you encounter any issue or you are not able to figure out the same in the Web-App, kindly report the issue on our official GitHub Forms: 
-
-Bug Report Form: [HERE](https://github.com/tillioss/tilli-web-app/issues/new?assignees=Tilliforkids%2Cmynap&labels=bug%2Cdevelopment%2Cart+%26+design&template=bug_report_form.yml&title=Found+a+%5Bbug%5D)
-Feedback/Doubts Form: [HERE](https://github.com/tillioss/tilli-web-app/issues/new?assignees=Tilliforkids%2Cmynap&labels=feedback%2Fdoubt%2Cdocumentation&template=feedback_or_doubt_form.yml&title=Have+a+%5Bfeedback%5D%2C+%5Bdoubt%5D)
-
-You can also search for past issues or requests to check if any other user has already encountered your issue or suggested the same feature here: 
-
-For open issues (yet to be solved): [HERE](https://github.com/tillioss/tilli-web-app/issues?q=is%3Aopen+is%3Aissue)
-For closed issues (solved): [HERE](https://github.com/tillioss/tilli-web-app/issues?q=is%3Aissue+is%3Aclosed)
-
-If you wish to open an issue that does not fall in any of the above categories, kindly open a blank issue: [HERE](https://github.com/tillioss/tilli-web-app/issues/new)
-
+Kindly go to the “Report Bugs, Issues or Share Feedback” Section in our Contribution Guidelines for filing any issue/bugs, feedback, to clarify doubts or propose a new feature through our GitHub forms.
 
 ## Godot Mini Games
 
@@ -199,26 +174,11 @@ The logic behind assigning one of the above mentioned strategies is explained he
 Please Note: As of now the logic is implemented as to test which strategy helps the kids better and will be further improved in the next iterations based on the feedback received from this version.
 
 
-### How to request a strategy for your content
 
-If you wish to suggest a new strategy that could be beneficial for you and the Tilli community in the IDE kindly fill the following form:
+### How to Report Bugs, Issues or Share Feedback
 
-- New Strategy Request Form: [HERE](https://github.com/tillioss/Godot-Strategies-V1/issues/new?assignees=Tilliforkids&labels=enhancement%2Cart+%26+design%2Cdevelopment&template=new_strategy_request_form.yml&title=Request+for+%5BNew+Strategy+Name%5D)
+Kindly go to the “Report Bugs, Issues or Share Feedback” Section in our Contribution Guidelines for filing any issue/bugs, feedback, to clarify doubts or propose a new feature through our GitHub forms.
 
-
-### How to give feedback or report bugs in existing mini games
-
-If you encounter any issue or you are not able to figure out the same in the Godot Strategies, kindly report the issue on our official GitHub Forms: 
-
-- Bug Report Form: [HERE](https://github.com/tillioss/Godot-Strategies-V1/issues/new?assignees=Tilliforkids&labels=bug%2Cdevelopment&template=bug_report_form.yml&title=Found+a+%5Bbug%5D+in+%5BABCDE+Strategy+Name%5D)
-- Feedback/Doubts Form: [HERE](https://github.com/tillioss/Godot-Strategies-V1/issues/new?assignees=Tilliforkids%2CBriandsouza-17%2CHannah31George&labels=feedback%2Fdoubt%2Cdocumentation&template=feedback_or_doubt_form.yml&title=Have+a+%5Bfeedback%5D%2C+%5Bdoubt%5D)
-
-You can also search for past issues or requests to check if any other user has already encountered your issue or suggested the same feature here: 
-
-- For open issues (yet to be solved): [HERE](https://github.com/tillioss/Godot-Strategies-V1/issues?q=is%3Aopen+is%3Aissue)
-- For closed issues (solved): [HERE](https://github.com/tillioss/Godot-Strategies-V1/issues?q=is%3Aissue+is%3Aclosed)
-
-If you wish to open an issue that does not fall in any of the above categories, kindly open a blank issue: [HERE](https://github.com/tillioss/Godot-Strategies-V1/issues/new)
 
 
 

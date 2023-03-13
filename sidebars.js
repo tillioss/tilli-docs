@@ -30,7 +30,11 @@ const sidebars = {
     {
       type: 'category',
       label: 'Developer Documentation',
-      items: ["Developer-Getting-Started", "Developer-Requirements", "Developer-Architecture", "GitHub-Repositories"],
+      items: ["Developer-Getting-Started", "Developer-Requirements", "Developer-Architecture", {
+        type: 'category',
+        label: 'GitHub-Repositories',
+        items: ["GitHub-Repositories", "Repo-Backend","Repo-Ide", "Repo-Godo", "Repo-ML","Repo-Docs"],
+      }],
     },
     {
       type: 'category',
@@ -44,9 +48,9 @@ const sidebars = {
     
      {
        type: 'category',
-       label: 'Open Source',
+       label: 'Community Docs',
        items: ["licenses", "os-strategy", "OpensourceQAProcess",
-         "Contribution-Guidelines", "code-of-conduct"],
+         "Contribution-Guidelines", "code-of-conduct", "Privacy-Policy"],
      },
      {
       type: 'category',
