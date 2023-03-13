@@ -36,19 +36,6 @@ Play Tilli’s Safety Toolbox here: https://tilli.teqbahn.com/tilli-web
 
 
 ### How to give feedback or report bugs for our Web App
-
-If you encounter any issue and you are not able to figure out the same in the Web-App, kindly report the issue on our official GitHub Forms: 
-
-- Bug Report Form: [HERE](https://github.com/tillioss/tilli-web-app/issues/new?assignees=Tilliforkids%2Cmynap&labels=bug%2Cdevelopment%2Cart+%26+design&template=bug_report_form.yml&title=Found+a+%5Bbug%5D)
-- Feedback/Doubts Form: [HERE](https://github.com/tillioss/tilli-web-app/issues/new?assignees=Tilliforkids%2Cmynap&labels=feedback%2Fdoubt%2Cdocumentation&template=feedback_or_doubt_form.yml&title=Have+a+%5Bfeedback%5D%2C+%5Bdoubt%5D)
-
-You can also search for past issues or requests to check if any other user has already encountered your issue or suggested the same feature here: 
-
-- For open issues (yet to be solved): [HERE](https://github.com/tillioss/tilli-web-app/issues?q=is%3Aopen+is%3Aissue)
-- For closed issues (solved): [HERE](https://github.com/tillioss/tilli-web-app/issues?q=is%3Aissue+is%3Aclosed)
-
-If you wish to open an issue that does not fall in any of the above categories, kindly open a blank issue: [HERE](https://github.com/tillioss/tilli-web-app/issues/new)
-
-
+Kindly go to the “Report Bugs, Issues or Share Feedback” Section in our Contribution Guidelines for filing any issue/bugs, feedback, to clarify doubts or propose a new feature through our GitHub forms.
 
 Last updated : 20/2/2023
