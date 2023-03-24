@@ -22,27 +22,41 @@ const sidebars = {
 
     {
       type: 'category',
-      label: 'Introduction',
+      label: 'Getting-Started',
       items: [
-        "project-charter"],
+        "project-charter", "Glossary", "TilliDocs", "Types-of-Documentation"],
     },
-   {
-     type: 'category',
-      label: 'Brand',
-      items: ["Brand-Guidelines", "Logo", "Color",
-        "Typography", "Art-assets"],
-   },
+   
     {
       type: 'category',
-      label: 'Open Source',
-      items: ["licenses", "os-strategy", "OpensourceQAProcess",
-        "Contribution-Guidelines", "code-of-conduct"],
+      label: 'Developer Documentation',
+      items: ["Developer-Getting-Started", "Developer-Requirements", "Developer-Architecture", {
+        type: 'category',
+        label: 'GitHub-Repositories',
+        items: ["GitHub-Repositories", "Repo-Backend","Repo-Ide", "Repo-Godo", "Repo-ML","Repo-Docs"],
+      }],
     },
     {
       type: 'category',
-      label: 'User and Developer Documentation',
-      items: ["getting-started-developer",
-      ],
+      label: 'User Documentation',
+      items: ["User-Getting-Started",  {
+        type: 'category',
+        label: 'Types-of-Users',
+        items: ["Module-Creators", "Parents-Teachers","Translators"],
+      }],
+    },
+    
+     {
+       type: 'category',
+       label: 'Community Docs',
+       items: ["licenses", "os-strategy", "OpensourceQAProcess",
+         "Contribution-Guidelines", "code-of-conduct", "Privacy-Policy"],
+     },
+     {
+      type: 'category',
+       label: 'Brand',
+       items: ["Brand-Guidelines", "Logo", "Color",
+         "Typography", "Art-assets"],
     },
   ],
 
@@ -50,3 +64,4 @@ const sidebars = {
 };
 
 module.exports = sidebars;
+
