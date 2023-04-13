@@ -384,7 +384,8 @@ You can now refresh the web-app link set up by your organization and your module
 
 ### How to view your own module
 
-Kindly refer to the following documentation here: (link to tilli-web-app installing details)
+Kindly refer to the following documentation here:
+[IDE + Web App: (Backend + Frontend Developers)](Repo-Ide.md)
 
 ### How to Give Feedback or Report Bugs or Request New Features
 
@@ -392,7 +393,7 @@ Kindly go to the “Report Bugs, Issues or Share Feedback” Section in our Cont
 
 
 
-## Web App:
+## Web App
 
 ### About the Game 
 (What it is, How it works, What it has)
