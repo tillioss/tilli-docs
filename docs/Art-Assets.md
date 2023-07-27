@@ -55,12 +55,5 @@ The assets used can be found in the link below:
 
 
 
-### UI Elements
 
-UI Elements are designed as per Tillis brand. The edges/corners of the icon/UI elements are rounded. 
-
-UI Elements can be found here:
-
-
-Some of the UI Icons:
 

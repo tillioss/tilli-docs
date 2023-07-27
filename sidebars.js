@@ -30,10 +30,10 @@ const sidebars = {
     {
       type: 'category',
       label: 'Developer Documentation',
-      items: ["Developer-Getting-Started", "Developer-Requirements", "Developer-Architecture", {
+      items: ["Developer-Getting-Started", "Developer-Requirements", {
         type: 'category',
         label: 'GitHub-Repositories',
-        items: ["GitHub-Repositories", "Repo-Backend","Repo-Ide", "Repo-Godo", "Repo-ML","Repo-Docs"],
+        items: ["GitHub-Repositories", "Repo-Backend","Repo-Ide", "Repo-Godo", "Repo-ML"],
       }],
     },
     {
