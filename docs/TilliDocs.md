@@ -6,7 +6,6 @@ id: TilliDocs
 # TilliDocs
 
 ## Intro 
-(What it is, What it has)
 
 This documentation website is dedicated to Parents, Teachers, Social Workers, Designers and Developers who want to create their own Social Emotional Learning/ Safety Modules using our software and open to use content. This is maintained by the Tilli Team directly inside the project repository.
 

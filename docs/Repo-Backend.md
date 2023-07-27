@@ -6,7 +6,6 @@ id: Repo-Backend
 # Backend Server (Backend Developers)
 
 ### Intro  
-(What it is, How it works, What it has)
 
 Tilli is a web-based application with scala as backend and uses truffle as a tool to compile. It uses MongoDB as a database.
 

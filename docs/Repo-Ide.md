@@ -7,7 +7,6 @@ id: Repo-Ide
 
 
 ### Intro 
-(What it is, How it works, What it has)
 
 The IDE is a prototyping platform that allows one to create, customize and upload one’s own content and curriculum for children to interact with via a web-app.
 

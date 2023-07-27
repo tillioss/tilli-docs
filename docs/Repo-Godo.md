@@ -5,7 +5,6 @@ id: Repo-Godo
 # Godot (Game Developers)
 
 ### Intro 
-(What it is, How it works, How it’s used, What it has)
 
 We have created 6 different types of strategies/ activities in Godot that help people regulate and manage their emotions better. It aids in reducing stress or anxiety during stressful/ negative scenarios, thus enabling oneself keep a positive self-image and outlook in life.
 
