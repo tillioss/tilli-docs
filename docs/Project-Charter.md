@@ -2,8 +2,7 @@
 id: project-charter
 
 ---
-
-# Project Charter
+# Introduction
 
 ### ABOUT TILLI
 
@@ -38,5 +37,4 @@ The values of each community will be reflected using this process while the voic
 
 
 
-
-Last updated :30/11/2022
+Last updated :03/24/2023
