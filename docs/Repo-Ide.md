@@ -21,7 +21,7 @@ Features Available: (Link to Module Creators)
 
 Need to change IP address and Port in config/Myconstant.js:
 
-Ex apiURL: http://192.yyy.1.xxx:8093/tilli-api/
+Example apiURL: http://${IP Address}:8093/tilli-api/
 
 2. How to run? Yarn/npm/
 
@@ -41,7 +41,7 @@ Running Url: http://localhost:3023/tilli-web/
 
 Need to change IP address and Port in config/Myconstant.js:
 
-Ex apiURL: http://192.yyy.1.xxx:8093/tilli-api/
+Example apiURL: http://${IP Address}:8093/tilli-api/
 
 2. How to run? Yarn/npm/..
 
