@@ -6,7 +6,9 @@ id: Repo-Ide
 # IDE + Web App: (Backend + Frontend Developers)
 
 
+
 ### Intro 
+
 
 The IDE is a prototyping platform that allows one to create, customize and upload one’s own content and curriculum for children to interact with via a web-app.
 
