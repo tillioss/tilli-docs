@@ -5,7 +5,6 @@ id: Repo-Godo
 # Godot (Game Developers)
 
 ### Intro 
-(What it is, How it works, How it’s used, What it has)
 
 We have created 6 different types of strategies/ activities in Godot that help people regulate and manage their emotions better. It aids in reducing stress or anxiety during stressful/ negative scenarios, thus enabling oneself keep a positive self-image and outlook in life.
 
@@ -72,3 +71,6 @@ Resources to learn Godot
 ### How to Give Feedback or Report Bugs
 
 Kindly go to the “Report Bugs, Issues or Share Feedback” Section in our Contribution Guidelines for filing any issue/bugs, feedback, to clarify doubts or propose a new feature through our GitHub forms.
+
+### Join our Slack Community
+Join our Slack community to connect with other members, ask questions, and collaborate on projects. [Slack Invite Link](https://tilliopensour-wyp9205.slack.com/join/shared_invite/zt-206f4f11s-HoII8Kob45f6WK3GPIIi6g#/shared-invite/email)
