@@ -39,9 +39,6 @@ Tilli Facial Expressions are modular. Eyes and Lips are designed to obtain a des
 
 ![Explore](./images/Explore.png "Explore")
 
-### Assets
-
-The assets used can be found in the link below:
 
 
 #### Background
