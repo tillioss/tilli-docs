@@ -11,8 +11,8 @@ It uses MongoDB as a database for regular non-blockchain data persistence and so
 
 To run Tilli in your system please make sure you have the following app and libraries installed.
 
-- `Node-js --version == 10.18.1`
-- `Yarn --version == 1.21.1`
+- `Node-js --version == 20.0.0`
+- `Yarn --version == 1.22.20`
 
 ---
 ## Installing Tilli Server
