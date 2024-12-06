@@ -19,49 +19,66 @@ const sidebars = {
   // But you can create a sidebar manually
 
   tutorialSidebar: [
+    {
+      type: "category",
+      label: "Getting-Started",
+      items: [
+        "project-charter",
+        "Glossary",
+        "TilliDocs",
+        "Types-of-Documentation",
+      ],
+    },
 
     {
-      type: 'category',
-      label: 'Getting-Started',
+      type: "category",
+      label: "Developer Documentation",
       items: [
-        "project-charter", "Glossary", "TilliDocs", "Types-of-Documentation"],
+        "Getting-started-developer",
+        {
+          type: "category",
+          label: "GitHub-Repositories",
+          items: [
+            "GitHub-Repositories",
+            "Repo-Backend",
+            "Repo-Ide",
+            "Repo-Godo",
+            "Repo-ML",
+          ],
+        },
+      ],
     },
-   
     {
-      type: 'category',
-      label: 'Developer Documentation',
-      items: ["Developer-Getting-Started", "Developer-Requirements", {
-        type: 'category',
-        label: 'GitHub-Repositories',
-        items: ["GitHub-Repositories", "Repo-Backend","Repo-Ide", "Repo-Godo", "Repo-ML"],
-      }],
+      type: "category",
+      label: "User Documentation",
+      items: [
+        "User-Getting-Started",
+        {
+          type: "category",
+          label: "Types-of-Users",
+          items: ["Module-Creators", "Parents-Teachers", "Translators"],
+        },
+      ],
+    },
+
+    {
+      type: "category",
+      label: "Community Docs",
+      items: [
+        "licenses",
+        "os-strategy",
+        "OpensourceQAProcess",
+        "Contribution-Guidelines",
+        "code-of-conduct",
+        "Privacy-Policy",
+      ],
     },
     {
-      type: 'category',
-      label: 'User Documentation',
-      items: ["User-Getting-Started",  {
-        type: 'category',
-        label: 'Types-of-Users',
-        items: ["Module-Creators", "Parents-Teachers","Translators"],
-      }],
-    },
-    
-     {
-       type: 'category',
-       label: 'Community Docs',
-       items: ["licenses", "os-strategy", "OpensourceQAProcess",
-         "Contribution-Guidelines", "code-of-conduct", "Privacy-Policy"],
-     },
-     {
-      type: 'category',
-       label: 'Brand',
-       items: ["Brand-Guidelines", "Logo", "Color",
-         "Typography", "Art-assets"],
+      type: "category",
+      label: "Brand",
+      items: ["Brand-Guidelines", "Logo", "Color", "Typography", "Art-assets"],
     },
   ],
-
-
 };
 
 module.exports = sidebars;
-
