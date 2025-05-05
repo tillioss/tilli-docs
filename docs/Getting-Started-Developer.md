@@ -16,6 +16,34 @@ To run Tilli in your system please make sure you have the following app and libr
 
 ---
 
+## Installing Tilli Assessment Tool
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<owner>/tilli-assessment-tool.git
+   cd tilli-assessment-tool
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   # or
+   pnpm install
+   ```
+3. Create a `.env.local` file in the project root with the following content:
+   ```dotenv
+   NEXT_PUBLIC_APPWRITE_PROJECT_ID=<Your Appwrite Project ID>
+   NEXT_PUBLIC_APPWRITE_DATABASE_ID=<Your Database ID>
+   NEXT_PUBLIC_APPWRITE_PARTICIPANTS_COLLECTION_ID=<Participants Collection ID>
+   NEXT_PUBLIC_APPWRITE_ASSESSMENTS_COLLECTION_ID=<Assessments Collection ID>
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
 ## Installing Tilli Server
 
 To set up this software on your machine locally:

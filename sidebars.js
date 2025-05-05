@@ -40,9 +40,9 @@ const sidebars = {
           label: "GitHub-Repositories",
           items: [
             "GitHub-Repositories",
+            "Repo-Tool",
             "Repo-Backend",
             "Repo-Ide",
-            "Repo-Godo",
             "Repo-ML",
           ],
         },
